@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4122337559531524151
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4122337559531524148}
+  - component: {fileID: 4122337559531524149}
+  - component: {fileID: 4122337559531524150}
+  - component: {fileID: 4122337559531524155}
+  m_Layer: 0
+  m_Name: Mushm_Blue
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4122337559531524148
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4122337559531524151}
+  m_LocalRotation: {x: -0, y: -0, z: -0.08513468, w: 0.9963695}
+  m_LocalPosition: {x: -8.86, y: -4.52, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: -9.768}
+--- !u!212 &4122337559531524149
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4122337559531524151}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 701035287711477986, guid: d676bc80f486af645800ffcc1f0e874a, type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 7.190641, y: 4.21}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 1
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
+--- !u!60 &4122337559531524150
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4122337559531524151}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 6200000, guid: 9e51202ae970e6d458fe3e510c2a20e3, type: 2}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 7.190641, y: 4.21}
+    newSize: {x: 7.190641, y: 4.21}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 3.383402, y: -1.5978979}
+      - {x: 3.4687586, y: -1.5125414}
+      - {x: 3.6394713, y: -1.1426635}
+      - {x: 3.6394713, y: -0.26064694}
+      - {x: 3.5256627, y: 0.080778815}
+      - {x: 3.184237, y: 0.6213696}
+      - {x: 2.8143592, y: 1.0196997}
+      - {x: 2.2453163, y: 1.4464818}
+      - {x: 1.7900819, y: 1.6740991}
+      - {x: 1.1925868, y: 1.9017162}
+      - {x: 0.6235438, y: 2.0724292}
+      - {x: 0.39592662, y: 2.1008813}
+      - {x: -1.0551329, y: 2.1008813}
+      - {x: -1.8517929, y: 1.9017162}
+      - {x: -2.4492881, y: 1.5887426}
+      - {x: -2.8760703, y: 1.275769}
+      - {x: -3.3028524, y: 0.82053465}
+      - {x: -3.4451132, y: 0.5644653}
+      - {x: -3.5589218, y: 0.13768311}
+      - {x: -3.5589218, y: -0.5451684}
+      - {x: -3.1890438, y: -0.8865942}
+      - {x: -2.3639317, y: -1.3418286}
+      - {x: -1.9371494, y: -1.5125414}
+      - {x: -1.28275, y: -1.7686107}
+      - {x: -0.4576378, y: -1.9393237}
+      - {x: 0.22521375, y: -2.0531323}
+      - {x: 0.5381874, y: -2.1100364}
+      - {x: 1.8754382, y: -2.1100364}
+      - {x: 2.2453163, y: -2.0246801}
+      - {x: 3.0419762, y: -1.825515}
+--- !u!114 &4122337559531524155
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4122337559531524151}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 518e953a05e9be5428514c85218f4c42, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_mushroomType: 
+  m_growthSpeed: 0
+  m_bounceFactor: 0
+  m_sporeAmount: 0

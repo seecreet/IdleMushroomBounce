@@ -1,0 +1,2256 @@
+fileFormatVersion: 2
+guid: d676bc80f486af645800ffcc1f0e874a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5324089404161714914
+    second: Various Dump 1_0
+  - first:
+      213: 2148471882397431297
+    second: Various Dump 1_1
+  - first:
+      213: 3409111746732451242
+    second: Various Dump 1_2
+  - first:
+      213: -4520166340031976766
+    second: Various Dump 1_3
+  - first:
+      213: -1140355980579112933
+    second: Various Dump 1_4
+  - first:
+      213: -1996853947338593518
+    second: Various Dump 1_5
+  - first:
+      213: 4871508455036247092
+    second: Various Dump 1_6
+  - first:
+      213: 7995322526675840152
+    second: Various Dump 1_7
+  - first:
+      213: 7315852908930774958
+    second: Various Dump 1_8
+  - first:
+      213: 5559333352725035388
+    second: Various Dump 1_9
+  - first:
+      213: 2224117322088450174
+    second: Various Dump 1_10
+  - first:
+      213: 8056750679120711753
+    second: Various Dump 1_11
+  - first:
+      213: -4513660542007280927
+    second: Various Dump 1_12
+  - first:
+      213: 3802480228882040731
+    second: Various Dump 1_13
+  - first:
+      213: -2813774496985728057
+    second: Various Dump 1_14
+  - first:
+      213: -4139656010986580950
+    second: Various Dump 1_15
+  - first:
+      213: -7588512111246702165
+    second: Various Dump 1_16
+  - first:
+      213: 6816620318694743273
+    second: Various Dump 1_17
+  - first:
+      213: 8191042744114486602
+    second: Various Dump 1_18
+  - first:
+      213: 5261224771413191177
+    second: Various Dump 1_19
+  - first:
+      213: 716605975328703301
+    second: Various Dump 1_20
+  - first:
+      213: -2630185305071567640
+    second: Various Dump 1_21
+  - first:
+      213: 6186961624930010263
+    second: Various Dump 1_22
+  - first:
+      213: -3825626031523093111
+    second: Various Dump 1_23
+  - first:
+      213: 8976131433064001683
+    second: Various Dump 1_24
+  - first:
+      213: -1656438377075087997
+    second: Various Dump 1_25
+  - first:
+      213: -7257957998136419062
+    second: Various Dump 1_26
+  - first:
+      213: -4415941513179367911
+    second: Various Dump 1_27
+  - first:
+      213: 1859934184195658550
+    second: Various Dump 1_28
+  - first:
+      213: -1645168402990768132
+    second: Various Dump 1_29
+  - first:
+      213: 1698442929841450988
+    second: Various Dump 1_30
+  - first:
+      213: 3487626999024833643
+    second: Various Dump 1_31
+  - first:
+      213: -2956034604879114267
+    second: Various Dump 1_32
+  - first:
+      213: 994936797022902482
+    second: Various Dump 1_33
+  - first:
+      213: 6426702164192542360
+    second: Various Dump 1_34
+  - first:
+      213: -3813498415604512642
+    second: Various Dump 1_35
+  - first:
+      213: 2026034964044696536
+    second: Various Dump 1_36
+  - first:
+      213: 5711539765393260524
+    second: Various Dump 1_37
+  - first:
+      213: 9104244444487288177
+    second: Various Dump 1_38
+  - first:
+      213: 6070254163017096244
+    second: Various Dump 1_39
+  - first:
+      213: 8375702330373146735
+    second: Various Dump 1_40
+  - first:
+      213: -1884610808743374696
+    second: Various Dump 1_41
+  - first:
+      213: 1660112524489935469
+    second: Various Dump 1_42
+  - first:
+      213: 1850165446248315334
+    second: Various Dump 1_43
+  - first:
+      213: 7536204692057120028
+    second: Various Dump 1_44
+  - first:
+      213: -6492716503386206814
+    second: Various Dump 1_45
+  - first:
+      213: -6167803106655941799
+    second: Various Dump 1_46
+  - first:
+      213: 3959776840987309171
+    second: Various Dump 1_47
+  - first:
+      213: -7689342597399587577
+    second: Various Dump 1_48
+  - first:
+      213: -1506229781641994648
+    second: Various Dump 1_49
+  - first:
+      213: 2112820760941691475
+    second: Various Dump 1_50
+  - first:
+      213: -3455220350932621691
+    second: Various Dump 1_51
+  - first:
+      213: -6519373120563112692
+    second: Various Dump 1_52
+  - first:
+      213: 2913515967881960907
+    second: Various Dump 1_53
+  - first:
+      213: -2722083010363328943
+    second: Various Dump 1_54
+  - first:
+      213: -629420080648330614
+    second: Various Dump 1_55
+  - first:
+      213: 4698351456991274797
+    second: Various Dump 1_56
+  - first:
+      213: -309437337053871384
+    second: Various Dump 1_57
+  - first:
+      213: 6919380024541273103
+    second: Various Dump 1_58
+  - first:
+      213: -5179342011954132129
+    second: Various Dump 1_59
+  - first:
+      213: 3268454737611319636
+    second: Various Dump 1_60
+  - first:
+      213: 4733055541833169089
+    second: Various Dump 1_61
+  - first:
+      213: -8332058834513655545
+    second: Various Dump 1_62
+  - first:
+      213: -3146180316554548738
+    second: Various Dump 1_63
+  - first:
+      213: -3232652603436627092
+    second: Various Dump 1_64
+  - first:
+      213: -4629431507764007535
+    second: Various Dump 1_65
+  - first:
+      213: -1876009977499221953
+    second: Various Dump 1_66
+  - first:
+      213: 6169618614858757770
+    second: Various Dump 1_67
+  - first:
+      213: -1855974565259994008
+    second: Various Dump 1_68
+  - first:
+      213: 8014812399603045561
+    second: Various Dump 1_69
+  - first:
+      213: -7668701855177786695
+    second: Various Dump 1_70
+  - first:
+      213: 231056652047949730
+    second: Various Dump 1_71
+  - first:
+      213: 2870522266663575364
+    second: Various Dump 1_72
+  - first:
+      213: -4871178655932943445
+    second: Various Dump 1_73
+  - first:
+      213: -4889877748345670771
+    second: Various Dump 1_74
+  - first:
+      213: 7636476541670145154
+    second: Various Dump 1_75
+  - first:
+      213: 2030662985266712922
+    second: Various Dump 1_76
+  - first:
+      213: 8816611729766162134
+    second: Various Dump 1_77
+  - first:
+      213: 3343487712705148175
+    second: Various Dump 1_78
+  - first:
+      213: -2819913336410344657
+    second: Various Dump 1_79
+  - first:
+      213: -3547649888196926687
+    second: Various Dump 1_80
+  - first:
+      213: 3068116012147480223
+    second: Various Dump 1_81
+  - first:
+      213: 7261530687994331427
+    second: Various Dump 1_82
+  - first:
+      213: -1430491667022338142
+    second: Various Dump 1_83
+  - first:
+      213: 1363172248054081304
+    second: Various Dump 1_84
+  - first:
+      213: 701035287711477986
+    second: Various Dump 1_85
+  - first:
+      213: -5187882731895778447
+    second: Various Dump 1_86
+  - first:
+      213: -2661968662936364345
+    second: Various Dump 1_87
+  - first:
+      213: -3600152880543080279
+    second: Various Dump 1_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Various Dump 1_0
+      rect:
+        serializedVersion: 2
+        x: 4713
+        y: 4559
+        width: 367
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15158825e80d16b0800000000000000
+      internalID: -5324089404161714914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_1
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 3874
+        width: 1858
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106b6304bc7e0dd10800000000000000
+      internalID: 2148471882397431297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_2
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 4104
+        width: 216
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5699742199f4f20800000000000000
+      internalID: 3409111746732451242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_3
+      rect:
+        serializedVersion: 2
+        x: 3646
+        y: 4093
+        width: 253
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca67b0a9a42541c0800000000000000
+      internalID: -4520166340031976766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_4
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 4033
+        width: 247
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18f61c0744ac20f0800000000000000
+      internalID: -1140355980579112933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_5
+      rect:
+        serializedVersion: 2
+        x: 4393
+        y: 3754
+        width: 297
+        height: 609
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21beb882aefb944e0800000000000000
+      internalID: -1996853947338593518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_6
+      rect:
+        serializedVersion: 2
+        x: 4832
+        y: 4270
+        width: 157
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c5fb621231b9340800000000000000
+      internalID: 4871508455036247092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_7
+      rect:
+        serializedVersion: 2
+        x: 4997
+        y: 4278
+        width: 128
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c213b1a7715fe60800000000000000
+      internalID: 7995322526675840152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_8
+      rect:
+        serializedVersion: 2
+        x: 3994
+        y: 4176
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea7b3d9a571278560800000000000000
+      internalID: 7315852908930774958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_9
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 4155
+        width: 145
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c79382dca38b62d40800000000000000
+      internalID: 5559333352725035388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_10
+      rect:
+        serializedVersion: 2
+        x: 4295
+        y: 4034
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7800e9abe6adde10800000000000000
+      internalID: 2224117322088450174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_11
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 3675
+        width: 91
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94090e06e045fcf60800000000000000
+      internalID: 8056750679120711753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_12
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 3662
+        width: 93
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea75f4c6a14c51c0800000000000000
+      internalID: -4513660542007280927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_13
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 3695
+        width: 147
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97c5fb2f9f15c430800000000000000
+      internalID: 3802480228882040731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_14
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 3238
+        width: 497
+        height: 582
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbbc15c00773f8d0800000000000000
+      internalID: -2813774496985728057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_15
+      rect:
+        serializedVersion: 2
+        x: 3378
+        y: 3729
+        width: 248
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2495d47accfc86c0800000000000000
+      internalID: -4139656010986580950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_16
+      rect:
+        serializedVersion: 2
+        x: 3882
+        y: 3786
+        width: 325
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba90463c07030b690800000000000000
+      internalID: -7588512111246702165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_17
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 3682
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec92885010899e50800000000000000
+      internalID: 6816620318694743273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_18
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 3682
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4d1cfe4afd6ca170800000000000000
+      internalID: 8191042744114486602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_19
+      rect:
+        serializedVersion: 2
+        x: 1544
+        y: 3656
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90aa19fed00a30940800000000000000
+      internalID: 5261224771413191177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_20
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 3594
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543c36b7655e1f900800000000000000
+      internalID: 716605975328703301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_21
+      rect:
+        serializedVersion: 2
+        x: 3341
+        y: 2978
+        width: 94
+        height: 648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ecb1cd7664bf7bd0800000000000000
+      internalID: -2630185305071567640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_22
+      rect:
+        serializedVersion: 2
+        x: 3472
+        y: 3035
+        width: 88
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7944de461d08cd550800000000000000
+      internalID: 6186961624930010263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_23
+      rect:
+        serializedVersion: 2
+        x: 3902
+        y: 3458
+        width: 651
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9852493b465a8eac0800000000000000
+      internalID: -3825626031523093111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_24
+      rect:
+        serializedVersion: 2
+        x: 4593
+        y: 3387
+        width: 509
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3907ff41bff919c70800000000000000
+      internalID: 8976131433064001683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_25
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 3521
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3856d1e72162309e0800000000000000
+      internalID: -1656438377075087997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_26
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 3525
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d9f5ea7ad864b90800000000000000
+      internalID: -7257957998136419062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_27
+      rect:
+        serializedVersion: 2
+        x: 1921
+        y: 3531
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916fa06279c67b2c0800000000000000
+      internalID: -4415941513179367911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_28
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 3528
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63396924940dfc910800000000000000
+      internalID: 1859934184195658550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_29
+      rect:
+        serializedVersion: 2
+        x: 1958
+        y: 3533
+        width: 27
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffd900dd003b29e0800000000000000
+      internalID: -1645168402990768132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_30
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 2925
+        width: 559
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef297098d4129710800000000000000
+      internalID: 1698442929841450988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_31
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 3530
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64dfe1074a866030800000000000000
+      internalID: 3487626999024833643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_32
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 3475
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ef0b68403e0af6d0800000000000000
+      internalID: -2956034604879114267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_33
+      rect:
+        serializedVersion: 2
+        x: 3276
+        y: 3373
+        width: 40
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d8d388deb9becd00800000000000000
+      internalID: 994936797022902482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_34
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 3074
+        width: 324
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e3ee5719b303950800000000000000
+      internalID: 6426702164192542360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_35
+      rect:
+        serializedVersion: 2
+        x: 3274
+        y: 3282
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78c062556bb31bc0800000000000000
+      internalID: -3813498415604512642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_36
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 3049
+        width: 225
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc76eb01ced1c10800000000000000
+      internalID: 2026034964044696536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_37
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 3060
+        width: 506
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cef78c4d727734f40800000000000000
+      internalID: 5711539765393260524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_38
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 2742
+        width: 687
+        height: 514
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1750dfdf516c85e70800000000000000
+      internalID: 9104244444487288177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_39
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 3212
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c58faefffdd3450800000000000000
+      internalID: 6070254163017096244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_40
+      rect:
+        serializedVersion: 2
+        x: 2318
+        y: 3229
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688d42a4e87c3470800000000000000
+      internalID: 8375702330373146735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_41
+      rect:
+        serializedVersion: 2
+        x: 3279
+        y: 3199
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8905dfc547488d5e0800000000000000
+      internalID: -1884610808743374696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_42
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 3212
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6a466d9b87e90710800000000000000
+      internalID: 1660112524489935469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_43
+      rect:
+        serializedVersion: 2
+        x: 2216
+        y: 3189
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c93557bbab1da910800000000000000
+      internalID: 1850165446248315334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_44
+      rect:
+        serializedVersion: 2
+        x: 3262
+        y: 3125
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d52b82d3af59860800000000000000
+      internalID: 7536204692057120028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_45
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 2914
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad49547dbc35e5a0800000000000000
+      internalID: -6492716503386206814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_46
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 2779
+        width: 484
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95bc83fb0cf876aa0800000000000000
+      internalID: -6167803106655941799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_47
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 2838
+        width: 356
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374fddc9e04f3f630800000000000000
+      internalID: 3959776840987309171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_48
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 2821
+        width: 241
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705d7b5c5a7f94590800000000000000
+      internalID: -7689342597399587577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_49
+      rect:
+        serializedVersion: 2
+        x: 4858
+        y: 2796
+        width: 241
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e5d137efbc81be0800000000000000
+      internalID: -1506229781641994648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_50
+      rect:
+        serializedVersion: 2
+        x: 3058
+        y: 2842
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3520002b94f325d10800000000000000
+      internalID: 2112820760941691475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_51
+      rect:
+        serializedVersion: 2
+        x: 2693
+        y: 2768
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586e5f9b5679c00d0800000000000000
+      internalID: -3455220350932621691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_52
+      rect:
+        serializedVersion: 2
+        x: 2839
+        y: 2740
+        width: 97
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c051b9e10b88685a0800000000000000
+      internalID: -6519373120563112692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_53
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 2645
+        width: 293
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd58091653ee6820800000000000000
+      internalID: 2913515967881960907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_54
+      rect:
+        serializedVersion: 2
+        x: 4869
+        y: 2534
+        width: 225
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156fa2e9ce7393ad0800000000000000
+      internalID: -2722083010363328943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_55
+      rect:
+        serializedVersion: 2
+        x: 2783
+        y: 2763
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82657e75c9d347f0800000000000000
+      internalID: -629420080648330614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_56
+      rect:
+        serializedVersion: 2
+        x: 2168
+        y: 2697
+        width: 25
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2767e7d1c5e33140800000000000000
+      internalID: 4698351456991274797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_57
+      rect:
+        serializedVersion: 2
+        x: 2682
+        y: 2352
+        width: 278
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e249a4a168a4bbf0800000000000000
+      internalID: -309437337053871384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_58
+      rect:
+        serializedVersion: 2
+        x: 3532
+        y: 2568
+        width: 37
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c57bcc873960060800000000000000
+      internalID: 6919380024541273103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_59
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 2124
+        width: 122
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b8737a1e74f18b0800000000000000
+      internalID: -5179342011954132129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_60
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 2169
+        width: 74
+        height: 390
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e3cf4442eb5d20800000000000000
+      internalID: 3268454737611319636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_61
+      rect:
+        serializedVersion: 2
+        x: 3913
+        y: 2551
+        width: 23
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8f82140f03fa140800000000000000
+      internalID: 4733055541833169089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_62
+      rect:
+        serializedVersion: 2
+        x: 4272
+        y: 2451
+        width: 193
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 709882992a49e5c80800000000000000
+      internalID: -8332058834513655545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_63
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 2192
+        width: 56
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9a078dba58654d0800000000000000
+      internalID: -3146180316554548738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_64
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 2272
+        width: 130
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b0be1a59f4323d0800000000000000
+      internalID: -3232652603436627092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_65
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 2247
+        width: 94
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19da9bb4294f0cfb0800000000000000
+      internalID: -4629431507764007535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_66
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 2155
+        width: 74
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3002107dd217f5e0800000000000000
+      internalID: -1876009977499221953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_67
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 2226
+        width: 62
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a863b423173ee9550800000000000000
+      internalID: 6169618614858757770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_68
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 2204
+        width: 96
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c948d57f04e36e0800000000000000
+      internalID: -1855974565259994008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_69
+      rect:
+        serializedVersion: 2
+        x: 4206
+        y: 2300
+        width: 151
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b45cb3c9655a3f60800000000000000
+      internalID: 8014812399603045561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_70
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 2306
+        width: 153
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9babfb11b4c439590800000000000000
+      internalID: -7668701855177786695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_71
+      rect:
+        serializedVersion: 2
+        x: 4727
+        y: 1748
+        width: 387
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2af1f440dc0e43300800000000000000
+      internalID: 231056652047949730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_72
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 2158
+        width: 74
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fd458fac426d720800000000000000
+      internalID: 2870522266663575364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_73
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2172
+        width: 74
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f6af22d8166cb0800000000000000
+      internalID: -4871178655932943445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_74
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 2224
+        width: 37
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83f4c6781aa32cb0800000000000000
+      internalID: -4889877748345670771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_75
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 1967
+        width: 305
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3ad174f63af960800000000000000
+      internalID: 7636476541670145154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_76
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 2107
+        width: 136
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a515b57e93d5e2c10800000000000000
+      internalID: 2030662985266712922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_77
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 1848
+        width: 165
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de1143e7a5ea5a70800000000000000
+      internalID: 8816611729766162134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_78
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 1894
+        width: 167
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f057ca23c54766e20800000000000000
+      internalID: 3343487712705148175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_79
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 1877
+        width: 126
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23ffd5d2c7add8d0800000000000000
+      internalID: -2819913336410344657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_80
+      rect:
+        serializedVersion: 2
+        x: 1942
+        y: 1882
+        width: 162
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1236192193734cec0800000000000000
+      internalID: -3547649888196926687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_81
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 1644
+        width: 318
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f961db9e143249a20800000000000000
+      internalID: 3068116012147480223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_82
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 1552
+        width: 122
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321008fffa326c460800000000000000
+      internalID: 7261530687994331427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_83
+      rect:
+        serializedVersion: 2
+        x: 3990
+        y: 2036
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a72afc686fd52ce0800000000000000
+      internalID: -1430491667022338142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_84
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1566
+        width: 739
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8172fecefe5fae210800000000000000
+      internalID: 1363172248054081304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_85
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 1526
+        width: 719
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07e0341e39ab900800000000000000
+      internalID: 701035287711477986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_86
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 1566
+        width: 48
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17318f45420f008b0800000000000000
+      internalID: -5187882731895778447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_87
+      rect:
+        serializedVersion: 2
+        x: 3674
+        y: 1566
+        width: 311
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cad472da99ce0bd0800000000000000
+      internalID: -2661968662936364345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Various Dump 1_88
+      rect:
+        serializedVersion: 2
+        x: 4243
+        y: 1542
+        width: 478
+        height: 354
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a061229700b90ec0800000000000000
+      internalID: -3600152880543080279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

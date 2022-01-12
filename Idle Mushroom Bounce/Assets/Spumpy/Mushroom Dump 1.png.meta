@@ -1,0 +1,480 @@
+fileFormatVersion: 2
+guid: 64b65ed21bb10814081b73c7f4eef861
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1533536255144064901
+    second: Mushroom Dump 1_0
+  - first:
+      213: 5597368104399372224
+    second: Mushroom Dump 1_1
+  - first:
+      213: 3768081357820006901
+    second: Mushroom Dump 1_2
+  - first:
+      213: 3592788035080857614
+    second: Mushroom Dump 1_3
+  - first:
+      213: -187965718763452092
+    second: Mushroom Dump 1_4
+  - first:
+      213: 1017464368800207818
+    second: Mushroom Dump 1_5
+  - first:
+      213: -2238439998694868794
+    second: Mushroom Dump 1_6
+  - first:
+      213: 5969771334727386797
+    second: Mushroom Dump 1_7
+  - first:
+      213: 2672520414667128531
+    second: Mushroom Dump 1_8
+  - first:
+      213: -1493017412452605492
+    second: Mushroom Dump 1_9
+  - first:
+      213: -4029763180546532669
+    second: Mushroom Dump 1_10
+  - first:
+      213: -2376577768949423697
+    second: Mushroom Dump 1_11
+  - first:
+      213: 3552740632418734596
+    second: Mushroom Dump 1_12
+  - first:
+      213: 8529962759753382712
+    second: Mushroom Dump 1_13
+  - first:
+      213: 4600647758169803245
+    second: Mushroom Dump 1_14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mushroom Dump 1_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1987
+        width: 1340
+        height: 1850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7884f5a6e8c7bae0800000000000000
+      internalID: -1533536255144064901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_1
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 3248
+        width: 1128
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf73d382a8ddad40800000000000000
+      internalID: 5597368104399372224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_2
+      rect:
+        serializedVersion: 2
+        x: 3054
+        y: 3359
+        width: 690
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f112a1e70aea4430800000000000000
+      internalID: 3768081357820006901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_3
+      rect:
+        serializedVersion: 2
+        x: 3760
+        y: 3299
+        width: 640
+        height: 2122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08a448bea52cd130800000000000000
+      internalID: 3592788035080857614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_4
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 2617
+        width: 444
+        height: 2031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4494727bc26346df0800000000000000
+      internalID: -187965718763452092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_5
+      rect:
+        serializedVersion: 2
+        x: 2024
+        y: 2047
+        width: 794
+        height: 1084
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac314f1e372ce1e00800000000000000
+      internalID: 1017464368800207818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_6
+      rect:
+        serializedVersion: 2
+        x: 2946
+        y: 1987
+        width: 1183
+        height: 1239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c834c25ea67fe0e0800000000000000
+      internalID: -2238439998694868794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_7
+      rect:
+        serializedVersion: 2
+        x: 4585
+        y: 1777
+        width: 489
+        height: 717
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da64cb45663e8d250800000000000000
+      internalID: 5969771334727386797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_8
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 1407
+        width: 472
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3deb6335823b61520800000000000000
+      internalID: 2672520414667128531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_9
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 21
+        width: 2634
+        height: 1904
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc12a4fd29cb74be0800000000000000
+      internalID: -1493017412452605492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_10
+      rect:
+        serializedVersion: 2
+        x: 4297
+        y: 70
+        width: 802
+        height: 1559
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca5396ecb76318c0800000000000000
+      internalID: -4029763180546532669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_11
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 838
+        width: 563
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1edac5c13b40fd0800000000000000
+      internalID: -2376577768949423697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_12
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 110
+        width: 765
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4025a6e28cedd4130800000000000000
+      internalID: 3552740632418734596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_13
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 84
+        width: 373
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b3962bfe3806670800000000000000
+      internalID: 8529962759753382712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mushroom Dump 1_14
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 84
+        width: 373
+        height: 657
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de98862c2c8c8df30800000000000000
+      internalID: 4600647758169803245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

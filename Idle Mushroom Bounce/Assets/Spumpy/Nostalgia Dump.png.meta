@@ -1,0 +1,984 @@
+fileFormatVersion: 2
+guid: 8fc1de57242bdaa4dac0096d0ecdcfa7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -286167946191076267
+    second: Nostalgia Dump_0
+  - first:
+      213: -4558190417657840827
+    second: Nostalgia Dump_1
+  - first:
+      213: 1411882518990331303
+    second: Nostalgia Dump_2
+  - first:
+      213: 5313418119387080356
+    second: Nostalgia Dump_3
+  - first:
+      213: 4812903603850585654
+    second: Nostalgia Dump_4
+  - first:
+      213: -8460215710328913475
+    second: Nostalgia Dump_5
+  - first:
+      213: -1302884522121351795
+    second: Nostalgia Dump_6
+  - first:
+      213: 1227475806922959429
+    second: Nostalgia Dump_7
+  - first:
+      213: -4390044845639578279
+    second: Nostalgia Dump_8
+  - first:
+      213: 7874277395196252824
+    second: Nostalgia Dump_9
+  - first:
+      213: -5399796389573815406
+    second: Nostalgia Dump_10
+  - first:
+      213: 3617605706146323860
+    second: Nostalgia Dump_11
+  - first:
+      213: 7562736227414485355
+    second: Nostalgia Dump_12
+  - first:
+      213: 208656185850026432
+    second: Nostalgia Dump_13
+  - first:
+      213: -541517432755994418
+    second: Nostalgia Dump_14
+  - first:
+      213: 3239920989093989334
+    second: Nostalgia Dump_15
+  - first:
+      213: 8091744950859874652
+    second: Nostalgia Dump_16
+  - first:
+      213: 1950074896078972136
+    second: Nostalgia Dump_17
+  - first:
+      213: 2100947140719900117
+    second: Nostalgia Dump_18
+  - first:
+      213: -2610962631136849680
+    second: Nostalgia Dump_19
+  - first:
+      213: 1457924445463403428
+    second: Nostalgia Dump_20
+  - first:
+      213: 3249892658761226259
+    second: Nostalgia Dump_21
+  - first:
+      213: -1414458188738459486
+    second: Nostalgia Dump_22
+  - first:
+      213: -3831505202411683447
+    second: Nostalgia Dump_23
+  - first:
+      213: 6222734285318126802
+    second: Nostalgia Dump_24
+  - first:
+      213: -7955581113983847680
+    second: Nostalgia Dump_25
+  - first:
+      213: -1497122022177063589
+    second: Nostalgia Dump_26
+  - first:
+      213: 2885841273899379696
+    second: Nostalgia Dump_27
+  - first:
+      213: 3068736689386245494
+    second: Nostalgia Dump_28
+  - first:
+      213: 6369495905874355156
+    second: Nostalgia Dump_29
+  - first:
+      213: 5102825858832235667
+    second: Nostalgia Dump_30
+  - first:
+      213: 2127443001820536443
+    second: Nostalgia Dump_31
+  - first:
+      213: -2344666262318717647
+    second: Nostalgia Dump_32
+  - first:
+      213: 4810996762698070308
+    second: Nostalgia Dump_33
+  - first:
+      213: 2218985994536634070
+    second: Nostalgia Dump_34
+  - first:
+      213: 5506627551842816998
+    second: Nostalgia Dump_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nostalgia Dump_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1580
+        width: 221
+        height: 575
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5548d25e4c3570cf0800000000000000
+      internalID: -286167946191076267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_1
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1939
+        width: 285
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b3ae827fd0eb0c0800000000000000
+      internalID: -4558190417657840827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_2
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1926
+        width: 257
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9009aba3089310800000000000000
+      internalID: 1411882518990331303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_3
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 2012
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6e03db0ad0db940800000000000000
+      internalID: 5313418119387080356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_4
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1677
+        width: 375
+        height: 483
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63626bde35edac240800000000000000
+      internalID: 4812903603850585654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_5
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1489
+        width: 686
+        height: 671
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db18aa6b2a6479a80800000000000000
+      internalID: -8460215710328913475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_6
+      rect:
+        serializedVersion: 2
+        x: 2038
+        y: 1426
+        width: 203
+        height: 734
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d2a9b1e693bede0800000000000000
+      internalID: -1302884522121351795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_7
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 1797
+        width: 247
+        height: 223
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a67023ebed80110800000000000000
+      internalID: 1227475806922959429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_8
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 1788
+        width: 298
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d4e9be87d6313c0800000000000000
+      internalID: -4390044845639578279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_9
+      rect:
+        serializedVersion: 2
+        x: 3112
+        y: 1788
+        width: 212
+        height: 354
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8929f8b329d074d60800000000000000
+      internalID: 7874277395196252824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_10
+      rect:
+        serializedVersion: 2
+        x: 3385
+        y: 1981
+        width: 139
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29314040bc11015b0800000000000000
+      internalID: -5399796389573815406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_11
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 1928
+        width: 223
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d174c0931543230800000000000000
+      internalID: 3617605706146323860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_12
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 1705
+        width: 225
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b69a40d978c34f860800000000000000
+      internalID: 7562736227414485355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_13
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1896
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c957cd02bb45e200800000000000000
+      internalID: 208656185850026432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_14
+      rect:
+        serializedVersion: 2
+        x: 2540
+        y: 1810
+        width: 187
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec0c5e493c42c78f0800000000000000
+      internalID: -541517432755994418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_15
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1608
+        width: 225
+        height: 269
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db874749f286fc20800000000000000
+      internalID: 3239920989093989334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1686
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5140113927ab4070800000000000000
+      internalID: 8091744950859874652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_17
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 1583
+        width: 115
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e4a13a39ce001b10800000000000000
+      internalID: 1950074896078972136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_18
+      rect:
+        serializedVersion: 2
+        x: 2388
+        y: 741
+        width: 1179
+        height: 1028
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d57b7e0b40182d10800000000000000
+      internalID: 2100947140719900117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_19
+      rect:
+        serializedVersion: 2
+        x: 3663
+        y: 1645
+        width: 105
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d449025ff3cbd0800000000000000
+      internalID: -2610962631136849680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_20
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1666
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab54390f869b3410800000000000000
+      internalID: 1457924445463403428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_21
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 861
+        width: 1218
+        height: 720
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318dc9b8720f91d20800000000000000
+      internalID: 3249892658761226259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_22
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 1477
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a80a9e75c5de5ce0800000000000000
+      internalID: -1414458188738459486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_23
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 1481
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981c03f8152c3dac0800000000000000
+      internalID: -3831505202411683447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_24
+      rect:
+        serializedVersion: 2
+        x: 3579
+        y: 11
+        width: 239
+        height: 1652
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dcf700fcd79b5650800000000000000
+      internalID: 6222734285318126802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_25
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 218
+        width: 159
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003bf279029189190800000000000000
+      internalID: -7955581113983847680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_26
+      rect:
+        serializedVersion: 2
+        x: 1342
+        y: 524
+        width: 318
+        height: 561
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5db8b2f377293be0800000000000000
+      internalID: -1497122022177063589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_27
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 673
+        height: 1287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbeee849519c0820800000000000000
+      internalID: 2885841273899379696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_28
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 397
+        width: 545
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d431892c7569a20800000000000000
+      internalID: 3068736689386245494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_29
+      rect:
+        serializedVersion: 2
+        x: 3031
+        y: 400
+        width: 538
+        height: 322
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d322f387cef46850800000000000000
+      internalID: 6369495905874355156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_30
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1
+        width: 250
+        height: 221
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c7f5a2511e0d640800000000000000
+      internalID: 5102825858832235667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_31
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 22
+        width: 186
+        height: 185
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7e57637322368d10800000000000000
+      internalID: 2127443001820536443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_32
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 0
+        width: 295
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13566adf472167fd0800000000000000
+      internalID: -2344666262318717647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_33
+      rect:
+        serializedVersion: 2
+        x: 1477
+        y: 0
+        width: 213
+        height: 352
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4293c20e01814c240800000000000000
+      internalID: 4810996762698070308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_34
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 23
+        width: 530
+        height: 321
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d64ced510c6bce10800000000000000
+      internalID: 2218985994536634070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nostalgia Dump_35
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 23
+        width: 529
+        height: 323
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e358f145987b6c40800000000000000
+      internalID: 5506627551842816998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -8,14 +8,22 @@ public class MushroomGenerator : MonoBehaviour
 {
     public GameObject m_mushroomTip;
     public GameObject m_pointsToRender;
-    public SpriteShapeController spriteShapeController;
-    public Spline spline;
+    public Mesh m_mushMesh;
+
+    //public SpriteShapeController spriteShapeController;
+    //public Spline spline;
 
     private Camera m_mainCam;
+    private MeshFilter m_mushFilter;
+    private LineRenderer m_mushLine;
 
     public List<Vector2> m_mushroomKeyPoints;
     public List<Vector2> m_leftPoints;
     public List<Vector2> m_rightPoints;
+
+    public Vector3[] m_meshPoints;
+    public Vector3[] m_flippedBitch;
+    public int[] m_meshTriangles;
 
     public float m_interpolationValue;
     public float m_incrementBetweenPoints;
@@ -24,17 +32,25 @@ public class MushroomGenerator : MonoBehaviour
 
     public int m_pointCounter;
     public int m_basePoint;
-    
+    public int m_meshIndices = 0;
+
 
     // Start is called before the first frame update
     void Start()
     {
         m_mainCam = Camera.main;
+        m_mushLine = GetComponent<LineRenderer>();
+        m_mushFilter = GetComponent<MeshFilter>();
+        m_mushMesh = new Mesh();
+        m_mushFilter.mesh = m_mushMesh;
+
         m_pointCounter = 0;
         m_mushroomKeyPoints = new List<Vector2>();
         m_leftPoints = new List<Vector2>();
         m_rightPoints = new List<Vector2>();
-        spline = spriteShapeController.spline;
+        //spline = spriteShapeController.spline;
+
+        
     }
 
     // Update is called once per frame
@@ -52,8 +68,8 @@ public class MushroomGenerator : MonoBehaviour
                 m_mushroomBaseCoefficient *= 1 / (((float)m_pointCounter + 1000)/1000);
                 m_basePoint = (int)(GetMushroomLength() * m_mushroomBaseCoefficient) + 1;
 
-                spline.Clear();
-                for (int i = 0; i < 2 * m_mushroomKeyPoints.Count - 1; i++) spline.InsertPointAt(i, (Vector3)m_mushroomKeyPoints[0] + new Vector3(0,0,i));
+                m_leftPoints.Clear();
+                m_rightPoints.Clear();
                 for(int i = 0; i < m_mushroomKeyPoints.Count; i++)
                 {
                     Vector2 vertexNormal = GetVertexNormal(i);
@@ -69,18 +85,71 @@ public class MushroomGenerator : MonoBehaviour
                         {
                             factor = (((float)m_mushroomKeyPoints.Count - j) / ((float)m_mushroomKeyPoints.Count - (float)m_basePoint)) * m_baseWidthCoefficient * (float)Math.Sqrt(m_pointCounter)/3;
                         }
-                        Debug.Log(factor);
-                        spline.SetPosition(i, m_mushroomKeyPoints[i] + vertexNormal * factor);
-                        spline.SetTangentMode(i, ShapeTangentMode.Continuous);
-                        spline.SetPosition(2 * m_mushroomKeyPoints.Count - 2 - i, m_mushroomKeyPoints[i] - vertexNormal * factor);
-                        spline.SetTangentMode(2 * m_mushroomKeyPoints.Count - 2 - i, ShapeTangentMode.Continuous);
+                        m_leftPoints.Add(m_mushroomKeyPoints[i] + vertexNormal * factor);
+                        m_rightPoints.Add(m_mushroomKeyPoints[i] - vertexNormal * factor);
                     }
                     catch (Exception e)
                     {
 
                     }
                 }
+
+                Array.Resize(ref m_meshPoints, m_mushroomKeyPoints.Count * 2);
+                for(int i = 0; i < m_leftPoints.Count; i++)
+                {
+                    m_meshPoints[i] = (Vector3)m_leftPoints[i] + Vector3.back * i;
+                }
+                for(int i = 0; i < m_rightPoints.Count; i++)
+                {
+                    m_meshPoints[m_rightPoints.Count + i] = (Vector3)m_rightPoints[i] + Vector3.back * i;
+                }
+                Array.Resize(ref m_flippedBitch, m_meshPoints.Length + 1);
+                for(int i = 0; i < m_flippedBitch.Length - 1; i++)
+                {
+                    if(i < m_meshPoints.Length / 2)
+                    {
+                        Debug.Log("FLIP ONE FUCKER 111111 ;;2;: " + i);
+                        m_flippedBitch[i] = m_meshPoints[i] + Vector3.back * 0.1f;
+                    }
+                    else
+                    {
+                        Debug.Log("TOWO2O222OWWWO22O2O22O2WOWWWWOWOO" + i);
+                        m_flippedBitch[i] = m_meshPoints[m_meshPoints.Length - (i - m_meshPoints.Length / 2 + 1)] + Vector3.back * 0.1f;
+                    }
+                }
+                m_flippedBitch[m_flippedBitch.Length - 1] = m_flippedBitch[0];
+                m_mushLine.positionCount = m_flippedBitch.Length;
+                m_mushLine.SetPositions(m_flippedBitch);
                 
+                Array.Resize(ref m_meshTriangles, (m_meshPoints.Length - 2)*3);
+                m_meshIndices = 0;
+                for(int i = 0; i < m_mushroomKeyPoints.Count; i++)
+                {
+                    if(i != 0)
+                    {
+                        m_meshTriangles[m_meshIndices] = i;
+                        m_meshIndices++;
+                        m_meshTriangles[m_meshIndices] = i + m_mushroomKeyPoints.Count;
+                        m_meshIndices++;
+                        m_meshTriangles[m_meshIndices] = i + m_mushroomKeyPoints.Count - 1;
+                        m_meshIndices++;
+                    }
+                    Debug.Log(m_meshIndices);
+                    if(i != m_mushroomKeyPoints.Count - 1)
+                    {
+                        m_meshTriangles[m_meshIndices] = i + 1;
+                        m_meshIndices++;
+                        m_meshTriangles[m_meshIndices] = i + m_mushroomKeyPoints.Count;
+                        m_meshIndices++;
+                        m_meshTriangles[m_meshIndices] = i;
+                        m_meshIndices++;
+                    }
+                    
+                }
+                m_mushMesh.vertices = m_meshPoints;
+                m_mushMesh.triangles = m_meshTriangles;
+
+
                 m_pointCounter++;
             }
         }

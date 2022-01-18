@@ -34,10 +34,15 @@ public class MushroomGenerator : MonoBehaviour
     public int m_basePoint;
     public int m_meshIndices = 0;
 
+    public GameObject m_blueMushroomCap;
+    public GameObject m_currentMushroomCap;
+    public bool m_isCapInstantiated;
+
 
     // Start is called before the first frame update
     void Start()
     {
+        m_isCapInstantiated = false;
         m_mainCam = Camera.main;
         m_mushLine = GetComponent<LineRenderer>();
         m_mushFilter = GetComponent<MeshFilter>();
@@ -56,11 +61,26 @@ public class MushroomGenerator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        
         if (Input.GetMouseButton(0))
         {
-            m_mushroomTip.transform.position = Vector2.Lerp(m_mushroomTip.transform.position, (Vector2)m_mushroomTip.transform.position + ((Vector2)m_mainCam.ScreenToWorldPoint(Input.mousePosition) - (Vector2)m_mushroomTip.transform.position).normalized, m_interpolationValue);
+            if (!m_isCapInstantiated)
+            {
+                m_isCapInstantiated = true;
+                m_mushroomTip.transform.position = (Vector2)m_mainCam.ScreenToWorldPoint(Input.mousePosition);
+                m_currentMushroomCap = Instantiate(m_blueMushroomCap, m_mushroomTip.transform.position, Quaternion.identity);
+            }
+          
+            m_mushroomTip.transform.position = Vector2.Lerp(m_mushroomTip.transform.position, (Vector2)m_mushroomTip.transform.position + ((Vector2)m_mainCam.ScreenToWorldPoint(Input.mousePosition) - (Vector2)m_mushroomTip.transform.position).normalized, m_interpolationValue*Time.deltaTime);
 
-            if(m_pointCounter == 0 || ((Vector2)m_mushroomTip.transform.position - m_mushroomKeyPoints[m_mushroomKeyPoints.Count - 1]).magnitude > m_incrementBetweenPoints)
+            m_currentMushroomCap.transform.position = m_mushroomTip.transform.position - new Vector3(0,0,m_pointCounter+1);
+            if(m_mushroomKeyPoints.Count > 1)
+            {
+                m_currentMushroomCap.transform.up = (m_mushroomKeyPoints[m_mushroomKeyPoints.Count -1] - m_mushroomKeyPoints[m_mushroomKeyPoints.Count - 2]).normalized;
+                m_currentMushroomCap.transform.localScale = Vector2.Lerp(m_currentMushroomCap.transform.localScale, new Vector2((float)m_pointCounter/20, (float)m_pointCounter /20),0.1f);
+            }
+           
+            if (m_pointCounter == 0 || ((Vector2)m_mushroomTip.transform.position - m_mushroomKeyPoints[m_mushroomKeyPoints.Count - 1]).magnitude > m_incrementBetweenPoints)
             {
                 m_mushroomKeyPoints.Add(m_mushroomTip.transform.position);
                 Instantiate(m_pointsToRender, m_mushroomKeyPoints[m_pointCounter], Quaternion.identity);

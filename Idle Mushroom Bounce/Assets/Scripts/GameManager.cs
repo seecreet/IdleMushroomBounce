@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class GameManager : MonoBehaviour
 {
+    public GameObject m_mushroomTip;
+
     private Camera m_mainCam;
 
     private Vector2 m_mushroomSpawnPoint;
@@ -16,6 +18,8 @@ public class GameManager : MonoBehaviour
 
     public bool m_spotFound = false;
     public bool m_placingMushroom = false;
+
+
 
     // Start is called before the first frame update
     void Start()
@@ -43,6 +47,7 @@ public class GameManager : MonoBehaviour
                 {
                     m_spotFound = true;
                     m_mushroomSpawnPoint = rayHit.point;
+                    m_mushroomTip.transform.position = m_mushroomSpawnPoint;
                     Debug.Log(m_mushroomSpawnPoint);
                 }
             }

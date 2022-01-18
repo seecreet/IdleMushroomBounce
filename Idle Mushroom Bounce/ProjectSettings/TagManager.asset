@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Stems
+    uniqueID: 2578888977
+    locked: 0
+  - name: Caps
+    uniqueID: 51278283
+    locked: 0

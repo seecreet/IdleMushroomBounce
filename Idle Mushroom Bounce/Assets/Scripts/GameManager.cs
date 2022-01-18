@@ -15,15 +15,16 @@ public class GameManager : MonoBehaviour
     public GameObject m_visualRadius;
 
     public float m_checkRadius;
+    public bool m_placingMushroom;
 
-    public bool m_spotFound = false;
-    public bool m_placingMushroom = false;
-
+    public MushroomGenerator m_mushGen;
+    public bool m_isNewMushroom;
 
 
     // Start is called before the first frame update
     void Start()
     {
+        m_isNewMushroom = true;
         m_mainCam = Camera.main;
     }
 
@@ -35,37 +36,27 @@ public class GameManager : MonoBehaviour
             // start placing mushroom, choose size and angle
             if (!m_placingMushroom)
             {
-                
-                m_placingMushroom = true;
-            }
-            if (!m_spotFound) 
-            {
                 m_checkOrigin = m_mainCam.ScreenToWorldPoint(Input.mousePosition);
                 m_visualRadius.transform.position = m_checkOrigin;
                 RaycastHit2D rayHit = Physics2D.CircleCast(m_checkOrigin, m_checkRadius, Vector2.zero, 0, LayerMask.GetMask("Growable"));
                 if (rayHit.point != Vector2.zero)
                 {
-                    m_spotFound = true;
-                    m_mushroomSpawnPoint = rayHit.point;
-                    m_mushroomTip.transform.position = m_mushroomSpawnPoint;
+                    m_placingMushroom = true;
+                    m_mushroomTip.transform.position = rayHit.point;
                     Debug.Log(m_mushroomSpawnPoint);
                 }
             }
             else
             {
-                
+                m_mushGen.GenerateMushroom(m_isNewMushroom);
+                m_isNewMushroom = false;
             }
-            
         }
+
         if (Input.GetMouseButtonUp(0))
         {
-            // place mushroom
-            if (m_placingMushroom && m_spotFound)
-            {
-                m_spotFound = false;
-                m_placingMushroom = false;
-                Instantiate(m_blueMushm, m_mushroomSpawnPoint, Quaternion.identity);
-            }
+            m_isNewMushroom = true;
+            m_placingMushroom = false;
         }
     }
 }
